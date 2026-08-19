@@ -1,0 +1,10 @@
+{
+  "name": "Calculadora Avanzada",
+  "short_name": "Calculadora",
+  "description": "Calculadora científica con historial offline",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0e27",
+  "theme_color": "#00d4ff",
+  "orientation": "portrait-primary"
+}
